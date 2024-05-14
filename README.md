@@ -5,3 +5,5 @@ Say goodbye to traffic jams and hello to a smoother, faster commute with OptimaN
 **OptimaNav is more than just a navigation app; it's your intelligent guide to a congestion-free commute.**
 
 ### [Project Documentation](https://github.com/dewianggitaa/Capstone-Project-Proposal/issues/1#issue-2291184635)
+
+### [Promotion Link](https://www.instagram.com/reel/C64zYEDPuao/?igsh=ajM5NjA0YjV4ZmUy)
